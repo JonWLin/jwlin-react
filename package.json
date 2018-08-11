@@ -1,8 +1,8 @@
 {
   "name": "jwlin-react",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Building a Full-stack web app",
-  "main": "index.js",
+  "main": "src/server/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,20 +10,33 @@
     "type": "git",
     "url": "git+https://github.com/jwlin17/jwlin-react.git"
   },
-  "keywords": [
-    "React",
-    "Node",
-    "JS",
-    "Webpack",
-    "Express",
-    "MySQL",
-    "Babel",
-    "Nodemon"
-  ],
-  "author": " <Jwlin> (https://acsweb.ucsd.edu/~jwlin)",
+  "author": " <Jwlin> (https://github.com/jwlin17)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jwlin17/jwlin-react/issues"
   },
-  "homepage": "https://github.com/jwlin17/jwlin-react#readme"
+  "homepage": "https://github.com/jwlin17/jwlin-react#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "clean-webpack-plugin": "^0.1.19",
+    "css-loader": "^1.0.0",
+    "file-loader": "^1.1.11",
+    "html-webpack-plugin": "^3.2.0",
+    "nodemon": "^1.18.3",
+    "style-loader": "^0.22.1",
+    "url-loader": "^1.0.1",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  }
 }
