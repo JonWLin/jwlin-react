@@ -1,0 +1,29 @@
+{
+  "name": "jwlin-react",
+  "version": "0.1.0",
+  "description": "Building a Full-stack web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwlin17/jwlin-react.git"
+  },
+  "keywords": [
+    "React",
+    "Node",
+    "JS",
+    "Webpack",
+    "Express",
+    "MySQL",
+    "Babel",
+    "Nodemon"
+  ],
+  "author": " <Jwlin> (https://acsweb.ucsd.edu/~jwlin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwlin17/jwlin-react/issues"
+  },
+  "homepage": "https://github.com/jwlin17/jwlin-react#readme"
+}
