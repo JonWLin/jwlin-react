@@ -13,41 +13,34 @@ I want my website to show **why** I am pursuing Data Science. I deeply appreciat
 - [About](#about)
 - [Installation](#installation)
 - [Documentation](#documentation)
-- [Todo List](#todo)
-- [References and Guides](#references)
+- [Todo List](#todo-list)
+- [References and Guides](#references-and-guides)
 
 ## About
 
 Building my Full-stack progressive web application - Aiming for near instant load times
+
 ## Installation
 
 ## Documentation
-Main Tools Used:
-- React
-- Node JS
-- Semantic-UI-React (Frontend)
-- [Express JS](https://expressjs.com/) (Backend)
-- [Babel](https://babeljs.io/)
-  - Core, Loader, Env, React, Plugin-transform
-- [Webpack](https://webpack.js.org/)
-  - clean webpack, cli, dev-server, html
-- [Nodemon](https://github.com/remy/nodemon)
-- [ESLint](https://eslint.org/docs/about/) (Airbnb)
-
-Editing:
-1.  Install [VSCode](https://code.visualstudio.com/)
-2.  Install [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-3.  Install [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-4.  Modify the VSCode user settings to add below configuration
-
-    ```javascript
-    "eslint.alwaysShowStatus": true,
-    "eslint.autoFixOnSave": true,
-    "editor.formatOnSave": true,
-    "prettier.eslintIntegration": true
-    ```
+1. Structure:
+   - [React](https://reactjs.org/)
+   - [Node.js](https://nodejs.org/en/)
+   - [Express JS](https://expressjs.com/) (Backend)
+  
+2. UI CSS Elements:
+   - [Semantic UI React](https://react.semantic-ui.com/)
+  
+2. Configuration Tools:
+   - [Babel](https://babeljs.io/)
+   - [Webpack](https://webpack.js.org/)
+   - [Nodemon](https://github.com/remy/nodemon)
+   - [ESLint](https://eslint.org/docs/about/) (Airbnb)
     
 ## Todo List
+- **Southwest Airlines Check-in Feature** 
+- [**NASDAQ Earnings Report Updates**](https://www.nasdaq.com/earnings/earnings-calendar.aspx)
+- **Travel Blog Content**
 
 ## References and Guides
     
