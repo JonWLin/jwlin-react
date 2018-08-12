@@ -20,6 +20,8 @@ I want my website to show **why** I am pursuing Data Science. I deeply appreciat
 
 Building my Full-stack progressive web application - Aiming for near instant load times
 
+*Disclaimer: This README is mostly to help myself remember why I used what I used. I do not think the code is especially unique or difficult to repoduce. It is merely a practice for a budding software engineer such as myself*
+
 ## Installation
 **TODO**
 **Will create a more thorough guide of how to install after finishing project**
@@ -47,8 +49,10 @@ I conducted a decent amount of research to decide between using Angular or [Reac
 
 ### Node.js
 [Node.js](https://nodejs.org/en/)
+**TODO**
 ### Express.js
 [Express.js](https://expressjs.com/)
+**TODO**
 ### Semantic UI React
 
 I decided to use [Semantic UI React](https://react.semantic-ui.com/) after reading [this article](https://medium.com/@Preda/semantic-ui-for-good-looking-looking-elements-5e6645787e99) by [Preda A](https://medium.com/@Preda). I admire his work and think the content is always an interesting read. Semantic's styling has everything I need and plenty of integration with React which made it an easy choice to use.
