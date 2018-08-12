@@ -9,7 +9,7 @@ As a student studying Data Science but passionate about Computer Science, I thou
 
 I want my website to show **why** I am pursuing Data Science. I deeply appreciate any feedback or advice about my website because I know there are constant improvements and changes in the ways we code. 
 
-# Index
+## Index
 - [About](#about)
 - [Installation](#installation)
 - [Documentation](#documentation)
