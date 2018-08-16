@@ -74,6 +74,7 @@ I decided to use [Semantic UI React](https://react.semantic-ui.com/) after readi
  
 ## Todo List
 - **Southwest Airlines Check-in Feature** 
+  - To avoid being sued by Southwest had to cancel this project https://theoutline.com/post/2554/swmonkey-southwest-airlines-kills-startups?zd=1&zi=hmankk7l
 - [**NASDAQ Earnings Report Updates**](https://www.nasdaq.com/earnings/earnings-calendar.aspx)
 - **Travel Blog Content**
 
