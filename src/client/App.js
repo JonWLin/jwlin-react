@@ -1,29 +1,35 @@
-import React, { Component } from "react";
-import "./app.css";
-import ReactImage from "./react.png";
+/* eslint-disable */
+import React from 'react';
+import './styles/app.css';
 
-export default class App extends Component {
-  constructor(props) {
-    super(props);
-    this.state = { username: null };
-  }
+import Navbar from './Navbar';
+import Profile from './Profile';
+import Blog from './Blog';
+import Projects from './Projects';
 
-  componentDidMount() {
-    fetch("/api/getUsername")
-      .then(res => res.json())
-      .then(user => this.setState({ username: user.username }));
-  }
+import {
+  BrowserRouter as Router,
+  Route,
+  Link,
+  Switch,
+  Redirect
+} from 'react-router-dom';
 
+export default class App extends React.Component {
   render() {
     return (
-      <div>
-        {this.state.username ? (
-          <h1>Hello {this.state.username}</h1>
-        ) : (
-          <h1>Loading.. please wait!</h1>
-        )}
-        <img src={ReactImage} alt="react" />
-      </div>
+        <Router>
+          <div className="App">
+            <div className="container">
+              <Navbar />
+              <Switch>
+                <Route exact path="/" component={Profile} />
+                <Route path="/projects" component={Projects} />
+                <Route path="blog" component={Blog} />
+              </Switch>
+            </div>
+          </div>
+        </Router>
     );
   }
 }
