@@ -73,8 +73,6 @@ I decided to use [Semantic UI React](https://react.semantic-ui.com/) after readi
 [ESLint](https://eslint.org/docs/about/) is a linting tool that allows for various configurations and styling rules. Deciding between an Airbnb config set and a Google config was difficult. It seemed odd that I would choose alternatives against Google every time but it just fit better for my styling. Take a look at the differences in [this article](https://medium.com/@uistephen/style-guides-for-linting-ecmascript-2015-eslint-common-google-airbnb-6c25fd3dff0). 
  
 ## Todo List
-- **Southwest Airlines Check-in Feature** 
-  - To avoid being sued by Southwest had to cancel this project https://theoutline.com/post/2554/swmonkey-southwest-airlines-kills-startups?zd=1&zi=hmankk7l
 - [**NASDAQ Earnings Report Updates**](https://www.nasdaq.com/earnings/earnings-calendar.aspx)
 - **Travel Blog Content**
 
