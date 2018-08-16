@@ -79,6 +79,7 @@ I decided to use [Semantic UI React](https://react.semantic-ui.com/) after readi
 
 ## References and Guides
     
-Big Reference and Inspiration Guide - https://github.com/crsandeep/simple-react-full-stack/edit/master/README.md
-Guide of Badges and Clean Repos - https://github.com/dwyl/repo-badges/edit/master/
-For Build passing guide and TDD - https://github.com/dwyl/learn-travis
+Big Reference and Inspiration Guide - https://github.com/crsandeep/simple-react-full-stack/edit/master/README.md    
+Guide of Badges and Clean Repos - https://github.com/dwyl/repo-badges/edit/master/    
+For Build passing guide and TDD - https://github.com/dwyl/learn-travis    
+For Link Routing and Page Navigation - https://medium.freecodecamp.org/beginners-guide-to-react-router-4-8959ceb3ad58
