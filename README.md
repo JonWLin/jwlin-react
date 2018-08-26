@@ -32,7 +32,7 @@ Probably using yarn to quick install all Dependencies needed. Will also be imple
 Each section below documents why I used the tools I used and how I used them. These are just the tools I found most relevent and worthwhile to learn my first project, but not necessarily the best.
 
   - Structure:
-    - [Isomorphic / Universal JS](#Isomorphic-/-Universal-JS-with-Node-(Express)-+-React)
+    - [Isomorphic / Universal JS](#isomorphic--universal-js-with-node-express--react)
     - [React](#react) 
     - [Node.js](#node.js)
     - [Express.js](#express.js)
