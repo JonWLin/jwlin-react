@@ -34,8 +34,8 @@ Each section below documents why I used the tools I used and how I used them. Th
   - Structure:
     - [Isomorphic / Universal JS](#isomorphic--universal-js-with-node-express--react)
     - [React](#react) 
-    - [Node.js](#node.js)
-    - [Express.js](#express.js)
+    - [Node.js](#nodejs)
+    - [Express.js](#expressjs)
   -  Styling:
     - [Semantic UI React](#semantic-UI-React)
   - Configuration Tools:
