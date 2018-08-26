@@ -32,6 +32,7 @@ Probably using yarn to quick install all Dependencies needed. Will also be imple
 Each section below documents why I used the tools I used and how I used them. These are just the tools I found most relevent and worthwhile to learn my first project, but not necessarily the best.
 
   - Structure:
+    - [Isomorphic / Universal JS](#Isomorphic-/-Universal-JS-with-Node-(Express)-+-React)
     - [React](#react) 
     - [Node.js](#node.js)
     - [Express.js](#express.js)
@@ -43,6 +44,10 @@ Each section below documents why I used the tools I used and how I used them. Th
     - [Nodemon](#nodemon)
     - [ESLint](#eslint) (Airbnb)
       
+### Isomorphic / Universal JS with Node (Express) + React
+
+Going into this project, I was not really familiar with any of the industry standard practices. If I had a chance to restart, I would have started with learning about Isomorphic JS first. It really changes the way you understand client-side vs. server-side rendering and how to optimize the interaction between the two. Check [this link](https://developer.ibm.com/node/2015/06/10/node-js-react-isomorphic-javascript-why-it-matters/) out for an AMAZING intro on the topic. 
+
 ### React
 
 I conducted a decent amount of research to decide between using Angular or [React](https://reactjs.org/). Ultimately, it felt that React is the generally more recommended structure for my first web app. As well as, an excuse to learn how to use Javascript more efficiently. React and Node.js seemed to be more often requested by job listings as well making it a great first thing to learn. Although, realistically I think the fundamental differences are miniscule and I could have used either to accomplish my tasks.
@@ -78,6 +83,7 @@ I decided to use [Semantic UI React](https://react.semantic-ui.com/) after readi
 
 ## References and Guides
     
+Amazing Universal / Isomorphic JS Guide - https://developer.ibm.com/node/2015/06/10/node-js-react-isomorphic-javascript-why-it-matters/
 Big Reference and Inspiration Guide - https://github.com/crsandeep/simple-react-full-stack/edit/master/README.md    
 Guide of Badges and Clean Repos - https://github.com/dwyl/repo-badges/edit/master/    
 For Build passing guide and TDD - https://github.com/dwyl/learn-travis    
