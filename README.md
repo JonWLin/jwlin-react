@@ -20,7 +20,7 @@ I want my website to show **why** I am pursuing Data Science. I deeply appreciat
 
 Building my Full-stack progressive web application - Aiming for near instant load times
 
-*Disclaimer: This README is mostly to help myself remember why I used what I used. I do not think the code is especially unique or difficult to repoduce. It is merely a practice for a budding software engineer such as myself*
+*Disclaimer: This README is really entry-level and helpful to remind me keep track of the various tools I used in my process. While I spent a lot of time on this project, I know this is just the beginning. It is merely a practice project for a budding software engineer such as myself*
 
 ## Installation
 **TODO**
