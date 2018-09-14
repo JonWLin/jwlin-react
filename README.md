@@ -48,6 +48,8 @@ Each section below documents why I used the tools I used and how I used them. Th
 
 Going into this project, I was not really familiar with any of the industry standard practices. If I had a chance to restart, I would have started with learning about Isomorphic JS first. It really changes the way you understand client-side vs. server-side rendering and how to optimize the interaction between the two. Check [this link](https://developer.ibm.com/node/2015/06/10/node-js-react-isomorphic-javascript-why-it-matters/) out for an AMAZING intro on the topic. 
 
+#### Side-Note: The isomorphic/universal version is not polished yet so I decided to not push to github as of yet. Just imagine this current project but faster and smoother transitions. :)
+
 ### React
 
 I conducted a decent amount of research to decide between using Angular or [React](https://reactjs.org/). Ultimately, it felt that React is the generally more recommended structure for my first web app. As well as, an excuse to learn how to use Javascript more efficiently. React and Node.js seemed to be more often requested by job listings as well making it a great first thing to learn. Although, realistically I think the fundamental differences are miniscule and I could have used either to accomplish my tasks.
