@@ -37,7 +37,7 @@ Each section below documents why I used the tools I used and how I used them. Th
     - [Node.js](#nodejs)
     - [Express.js](#expressjs)
   -  Styling:
-    - [Semantic UI React](#semantic-UI-React)
+    - [React-Bootstrap](#react-bootstrap)
   - Configuration Tools:
     - [Babel](babel)
     - [Webpack](#webpack)
@@ -60,9 +60,10 @@ I conducted a decent amount of research to decide between using Angular or [Reac
 ### Express.js
 [Express.js](https://expressjs.com/)
 **TODO**
-### Semantic UI React
 
-I decided to use [Semantic UI React](https://react.semantic-ui.com/) after reading [this article](https://medium.com/@Preda/semantic-ui-for-good-looking-looking-elements-5e6645787e99) by [Preda A](https://medium.com/@Preda). I admire his work and think the content is always an interesting read. Semantic's styling has everything I need and plenty of integration with React which made it an easy choice to use.
+### React Bootstrap
+
+I decided to use [React Bootstrap](https://react-bootstrap.github.io/) because I am familiar with bootstrap css styling from previous projects. Therefore using the react version of bootstrap would be less of a headache. In addition, it was really easy to install and use with plenty of available support and guides online already. Bootstrap is one of the most popular styling frameworks for a reason right?
 
 ### Babel
 
