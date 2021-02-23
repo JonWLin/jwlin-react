@@ -80,6 +80,9 @@ I decided to use [React Bootstrap](https://react-bootstrap.github.io/) because I
 
 [ESLint](https://eslint.org/docs/about/) is a linting tool that allows for various configurations and styling rules. Deciding between an Airbnb config set and a Google config was difficult. It seemed odd that I would choose alternatives against Google every time but it just fit better for my styling. Take a look at the differences in [this article](https://medium.com/@uistephen/style-guides-for-linting-ecmascript-2015-eslint-common-google-airbnb-6c25fd3dff0). 
  
+ ## Results
+ ![Website Speed Test Score: 97](web-speed-test.png)
+ 
 ## Todo List
 - [**NASDAQ Earnings Report Updates**](https://www.nasdaq.com/earnings/earnings-calendar.aspx)
 - **Travel Blog Content**
